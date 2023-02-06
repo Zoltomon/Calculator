@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\Calc222\obj\Debug\Calc222.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Calc222\obj\Debug\Calc222.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Calc222\obj\Debug\Calc222.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Calc222\bin\Debug\Calc222.exe.config
+C:\Users\student\Desktop\Calc222\bin\Debug\Calc222.exe
+C:\Users\student\Desktop\Calc222\bin\Debug\Calc222.pdb
+C:\Users\student\Desktop\Calc222\obj\Debug\Calc222.exe
+C:\Users\student\Desktop\Calc222\obj\Debug\Calc222.pdb
